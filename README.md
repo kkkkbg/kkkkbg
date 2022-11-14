@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+![kkkkbg's github stats](https://github-readme-stats.vercel.app/api?username=kkkkbg&show_icons=true)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ezplz)](https://solved.ac/ezplz)
+
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={ezplz})](https://solved.ac/{ezplz})
 <!--
 **kkkkbg/kkkkbg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
