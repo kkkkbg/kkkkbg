@@ -1,4 +1,4 @@
-### 😏Ji Eun😎
+### Hello I'm JiEun✨
 
 ![kkkkbg's github stats](https://github-readme-stats.vercel.app/api?username=kkkkbg&show_icons=true)
 
